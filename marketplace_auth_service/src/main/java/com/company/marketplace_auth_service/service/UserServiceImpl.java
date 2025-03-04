@@ -41,7 +41,4 @@ public class UserServiceImpl implements UserService{
         // Return the response model containing user details and tokens
         return userDetailResponseModel;
     }
-
-
-
 }
